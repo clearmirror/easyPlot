@@ -1,0 +1,29 @@
+{
+  "name": "easyPlot",
+  "version": "0.0.0",
+  "authors": [
+    "clearmirror"
+  ],
+  "description": "Easy data visualization library based on d3",
+  "main": "easyPlot.js",
+  "moduleType": [
+    "AMD"
+  ],
+  "keywords": [
+    "d3",
+    "visualization",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6",
+    "requirejs": "~2.1.20"
+  }
+}
